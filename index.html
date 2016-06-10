@@ -22,7 +22,8 @@
 			};
 			var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 			for(refu in refugis){
-				var marker=new google.maps.Marker({position: new google.maps.LatLng(refu.coordDec[0],refu.coordDec[1]);});
+				var _pos = new google.maps.LatLng(refu.coordDec[0],refu.coordDec[1]);
+				var marker=new google.maps.Marker({position: _pos});
 				marker.setMap(map);
 			}
 		}
