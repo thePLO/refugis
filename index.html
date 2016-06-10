@@ -7,7 +7,7 @@
 		var refugis;
 		var oReq = new XMLHttpRequest();
 		oReq.onload = reqListener;
-		oReq.open("get", "refus.JSON", true);
+		oReq.open("get", "refu.txt", true);
 		oReq.send();
 		function reqListener(e) {
 		    refugis = JSON.parse(this.responseText);
