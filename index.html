@@ -4,6 +4,8 @@
 	<link rel="stylesheet" href="style.css">
 	<script src="http://maps.googleapis.com/maps/api/js"></script>
 	<script>
+		var mapProp;
+		
 		var refugis;
 		var oReq = new XMLHttpRequest();
 		oReq.onload = reqListener;
@@ -15,7 +17,7 @@
 		    mapProp.center= new google.maps.LatLng(refugis[0].coordDec[0],refugis[0].coordDec[1]);
 		}
 		function initialize() {
-		  var mapProp = {
+		  mapProp = {
 		    center:new google.maps.LatLng(refugis[0].coordDec[0],refugis[0].coordDec[1]),
 		    zoom:10,
 		    mapTypeId:google.maps.MapTypeId.TERRAIN
