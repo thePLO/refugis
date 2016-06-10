@@ -1,4 +1,4 @@
-'[{
+[{
 	"pais":"Andorra",
 	"regio":"Ordino",
 	"nom":"Refugi de l'Angonella",
@@ -274,4 +274,4 @@
 	"nom":"Refugi de la Vall del Riu",
 	"altitud":2180,
 	"coordDec":[42.595642, 1.613172],
-}];'
+}];
