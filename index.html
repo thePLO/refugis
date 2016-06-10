@@ -15,12 +15,16 @@
 		    initialize()
 		}
 		function initialize() {
-		  var mapProp = {
-		    center:new google.maps.LatLng(refugis[0].coordDec[0],refugis[0].coordDec[1]),
-		    zoom:10,
-		    mapTypeId:google.maps.MapTypeId.TERRAIN
-		  };
-		  var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+			var mapProp = {
+				center:new google.maps.LatLng(refugis[0].coordDec[0],refugis[0].coordDec[1]),
+				zoom:10,
+				mapTypeId:google.maps.MapTypeId.TERRAIN
+			};
+			var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+			for(refu in refugis){
+				var marker=new google.maps.Marker({position: new google.maps.LatLng(refu.coordDec[0],refu.coordDec[1]);});
+				marker.setMap(map);
+			}
 		}
 		//google.maps.event.addDomListener(window, 'load', initialize);
 	</script>
