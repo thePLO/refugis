@@ -363,7 +363,7 @@
 
 		Toggle = function(cb){
 			//(cb.id=="pais")
-			console.log("Toggle", cb);
+			//console.log("Toggle", cb);
 			toggles[cb.id][cb.name] = cb.checked;
 			//SetMarkers();
 			resetMarkers();
@@ -376,6 +376,7 @@
 				zoom:10, disableDefaultUI:true,
 				mapTypeId:google.maps.MapTypeId.TERRAIN
 			};
+
 			//set
 			map = new google.maps.Map(mapDiv, myOptions); 
 			controlDiv = document.getElementById('menu');
@@ -387,7 +388,7 @@
 				else icoPath = "noguardat.png";
 				var visible = false;
 				if(toggles[refugis[i].pais].pais && toggles[refugis[i].pais][refugis[i].regio]) visible = true;
-				markers[i] = new google.maps.Marker({position:_pos,icon:icoPath,visible:visible});
+				markers[i] = new google.maps.Marker({position:_pos,icon:icoPath,visible:visible,title:refugis[i].name});
 				markers[i].setMap(map);
 			}
 			//menu
@@ -395,31 +396,17 @@
 			for(t in toggles){
 				for(r in toggles[t]){
 					var input;
-					if (r=='pais'){
-						controlTog[j] = document.createElement('div');
-						input = document.createElement('input');
-						controlTog[j].innerHTML = t;
-						input.type = "checkbox";
-						input.checked = toggles[t][r];
-						input.name = r;
-						input.id = t;
-						input.onclick = function(){Toggle(this);};
-						controlTog[j].appendChild(input);
-						
-						controlDiv.appendChild(controlTog[j]);
-					}else{
-						controlTog[j] = document.createElement('div');
-						input = document.createElement('input');
-						controlTog[j].innerHTML = "->"+r;
-						input.type = "checkbox";
-						input.checked = toggles[t][r];
-						input.name = r;
-						input.id = t;
-						input.onclick = function(){Toggle(this);};
-						controlTog[j].appendChild(input);
-						controlDiv.appendChild(controlTog[j]);
-					}
-					//controlTog[j].checked = toggles[t][r];
+					controlTog[j] = document.createElement('div');
+					input = document.createElement('input');
+					if (r=='pais') controlTog[j].innerHTML = t;
+					else controlTog[j].innerHTML = "->"+r;
+					input.type = "checkbox";
+					input.checked = toggles[t][r];
+					input.name = r;
+					input.id = t;
+					input.onclick = function(){Toggle(this);};
+					controlTog[j].appendChild(input);
+					controlDiv.appendChild(controlTog[j]);
 				} j++;
 			}
 		}
