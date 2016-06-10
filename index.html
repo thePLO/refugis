@@ -11,23 +11,22 @@
 		oReq.send();
 		function reqListener(e) {
 		    refugis = JSON.parse(this.responseText);
-		    alert(refugis);
-		    initialize()
+		    //alert(refugis);
+		    initializeMap()
 		}
-		function initialize() {
+		function initializeMap() {
 			var mapProp = {
 				center:new google.maps.LatLng(refugis[0].coordDec[0],refugis[0].coordDec[1]),
 				zoom:10,
 				mapTypeId:google.maps.MapTypeId.TERRAIN
 			};
 			var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-			for(refu in refugis){
-				var _pos = new google.maps.LatLng(refu.coordDec[0],refu.coordDec[1]);
-				var marker=new google.maps.Marker({position: _pos});
+			for(var i=0;i<refugis.length();i++){
+				var _pos = new google.maps.LatLng(refugis[i].coordDec[0],refugis[i].coordDec[1]);
+				var marker = new google.maps.Marker({position:_pos});
 				marker.setMap(map);
 			}
 		}
-		//google.maps.event.addDomListener(window, 'load', initialize);
 	</script>
 </head>
 <body>
