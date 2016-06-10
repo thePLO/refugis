@@ -3,7 +3,7 @@
 	"regio":"Ordino",
 	"nom":"Refugi de l'Angonella",
 	"altitud":2235,
-	"coordDec":[42.607939, 1.496069],
+	"coordDec":[42.607939, 1.496069]
 },{
 	"pais":"Andorra",
 	"regio":"Ordino",
