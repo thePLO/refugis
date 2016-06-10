@@ -1,277 +1,325 @@
-[{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Refugi de l'Angonella",
-	"altitud":2235,
-	"coordDec":[42.607939, 1.496069]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Cabana de Banyell",
-	"altitud":2110,
-	"coordDec":[42.645836, 1.5577]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Refugi de Besali",
-	"altitud":2150,
-	"coordDec":[42.629103, 1.537469]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Refugi de Sorteny",
-	"altitud":1980,
-	"coordDec":[42.622689, 1.564139]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Refugi de Cabana Sorda",
-	"altitud":2250,
-	"coordDec":[42.611489, 1.672336]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Cabana del Castellar",
-	"altitud":1867,
-	"coordDec":[42.633428, 1.510975]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana de Claror",
-	"altitud":2119,
-	"coordDec":[42.475631, 1.567875]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Refugi de Claror",
-	"altitud":2250,
-	"coordDec":[42.470117, 1.563925]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Refugi de Coma Obaga",
-	"altitud":2010,
-	"coordDec":[42.606783, 1.550533]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Cabana de Coma Pedrosa",
-	"altitud":2213,
-	"coordDec":[42.581367, 1.446806]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Refugi de Coma Pedrosa",
-	"altitud":2260,
-	"coordDec":[42.579047, 1.449364]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Refugi de Coms de Jan",
-	"altitud":2218,
-	"coordDec":[42.61845, 1.638794]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Refugi dels Cortals de Sispony",
-	"altitud":1660,
-	"coordDec":[42.5271, 1.486414]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Borda de Coruvilla",
-	"altitud":1862,
-	"coordDec":[42.586367, 1.468372]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Refugi de les Agols",
-	"altitud":2250,
-	"coordDec":[42.511167, 1.608867]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana dels Estanys",
-	"altitud":2435,
-	"coordDec":[42.490736, 1.648892]
-},{
-	"pais":"Andorra",
-	"regio":"Encamp",
-	"nom":"Refugi dels Estanys d'Ensagents",
-	"altitud":2420,
-	"coordDec":[42.517017, 1.642047]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana d'Estall Serrer",
-	"altitud":2076,
-	"coordDec":[42.484706, 1.6123]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Refugi d'Estanys Forcats",
-	"altitud":2630,
-	"coordDec":[42.59825, 1.450061]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Cabana de l'Eucasser",
-	"altitud":1980,
-	"coordDec":[42.620986, 1.569144]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Refugi de Fontverd",
-	"altitud":1830,
-	"coordDec":[42.492064, 1.594533]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana de la Farga",
-	"altitud":2008,
-	"coordDec":[42.489836, 1.6072]
-},{
-	"pais":"Andorra",
-	"regio":"Sant Julià de Lòria",
-	"nom":"Refugi de Francolí",
-	"altitud":1825,
-	"coordDec":[42.489925, 1.4263]
-},{
-	"pais":"Andorra",
-	"regio":"Encamp",
-	"nom":"Refugi de l'Illa",
-	"altitud":2517,
-	"coordDec":[42.494986, 1.656422]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Refugi de Juclar",
-	"altitud":2310,
-	"coordDec":[42.607269, 1.715678]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Refugi de la Portella",
-	"altitud":2240,
-	"coordDec":[42.572028, 1.720522]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Refugi de les Fonts",
-	"altitud":2220,
-	"coordDec":[42.590103, 1.478978]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana Maiana",
-	"altitud":2375,
-	"coordDec":[42.477606, 1.588647]
-},{
-	"pais":"Andorra",
-	"regio":"Encamp",
-	"nom":"Refugi de Montmalús",
-	"altitud":2440,
-	"coordDec":[42.499181, 1.680683]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Cabana de Montmantell",
-	"altitud":2505,
-	"coordDec":[42.600861, 1.469644]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana de Perafita",
-	"altitud":2201,
-	"coordDec":[42.481114, 1.575694]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Refugi de Perafita",
-	"altitud":2200,
-	"coordDec":[42.479719, 1.57825]
-},{
-	"pais":"Andorra",
-	"regio":"Encamp",
-	"nom":"Refugi del Pla de les Pedres",
-	"altitud":2150,
-	"coordDec":[42.553669, 1.678897]
-},{
-	"pais":"Andorra",
-	"regio":"La Massana",
-	"nom":"Refugi del Pla de l'Estany",
-	"altitud":2030,
-	"coordDec":[42.594019, 1.460528]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Cabana del Pla de la Vaca Morta",
-	"altitud":1791,
-	"coordDec":[42.566514, 1.757844]
-},{
-	"pais":"Andorra",
-	"regio":"Andorra la Vella",
-	"nom":"Refugi de Prat Primer",
-	"altitud":2215,
-	"coordDec":[42.478475, 1.550292]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Refugi de Rialb",
-	"altitud":2020,
-	"coordDec":[42.64035, 1.561233]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Refugi de Riba Escorjada",
-	"altitud":2040,
-	"coordDec":[42.565933, 1.640767]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Refugi del Riu dels Orris",
-	"altitud":2230,
-	"coordDec":[42.485028, 1.639756]
-},{
-	"pais":"Andorra",
-	"regio":"Sant Julià de Lòria",
-	"nom":"Refugi de Roca de Pimes",
-	"altitud":2170,
-	"coordDec":[42.433678, 1.535761]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana del Serrat de la Barracota",
-	"altitud":2175,
-	"coordDec":[42.482278, 1.629383]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Cabana de la Serrera",
-	"altitud":2250,
-	"coordDec":[42.621144, 1.579775]
-},{
-	"pais":"Andorra",
-	"regio":"Escaldes-Engordany",
-	"nom":"Cabana de Setut",
-	"altitud":2277,
-	"coordDec":[42.482558, 1.642253]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Cabana de Siscaró",
-	"altitud":2508,
-	"coordDec":[42.585714, 1.715831]
-},{
-	"pais":"Andorra",
-	"regio":"Canillo",
-	"nom":"Refugi de Siscaró",
-	"altitud":2180,
-	"coordDec":[42.594872, 1.705958]
-},{
-	"pais":"Andorra",
-	"regio":"Ordino",
-	"nom":"Refugi de la Vall del Riu",
-	"altitud":2180,
-	"coordDec":[42.595642, 1.613172]
-}]
+[
+	{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Refugi de l'Angonella",
+		"altitud":2235,
+		"guardat":false,
+		"coordDec":[42.607939, 1.496069]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Cabana de Banyell",
+		"altitud":2110,
+		"guardat":false,
+		"coordDec":[42.645836, 1.5577]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Refugi de Besali",
+		"altitud":2150,
+		"guardat":false,
+		"coordDec":[42.629103, 1.537469]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Refugi de Sorteny",
+		"altitud":1980,
+		"guardat":false,
+		"coordDec":[42.622689, 1.564139]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Refugi de Cabana Sorda",
+		"altitud":2250,
+		"guardat":false,
+		"coordDec":[42.611489, 1.672336]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Cabana del Castellar",
+		"altitud":1867,
+		"guardat":false,
+		"coordDec":[42.633428, 1.510975]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana de Claror",
+		"altitud":2119,
+		"guardat":false,
+		"coordDec":[42.475631, 1.567875]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Refugi de Claror",
+		"altitud":2250,
+		"guardat":false,
+		"coordDec":[42.470117, 1.563925]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Refugi de Coma Obaga",
+		"altitud":2010,
+		"guardat":false,
+		"coordDec":[42.606783, 1.550533]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Cabana de Coma Pedrosa",
+		"altitud":2213,
+		"guardat":false,
+		"coordDec":[42.581367, 1.446806]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Refugi de Coma Pedrosa",
+		"altitud":2260,
+		"guardat":true,
+		"coordDec":[42.579047, 1.449364]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Refugi de Coms de Jan",
+		"altitud":2218,
+		"guardat":false,
+		"coordDec":[42.61845, 1.638794]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Refugi dels Cortals de Sispony",
+		"altitud":1660,
+		"guardat":false,
+		"coordDec":[42.5271, 1.486414]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Borda de Coruvilla",
+		"altitud":1862,
+		"guardat":false,
+		"coordDec":[42.586367, 1.468372]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Refugi de les Agols",
+		"altitud":2250,
+		"guardat":false,
+		"coordDec":[42.511167, 1.608867]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana dels Estanys",
+		"altitud":2435,
+		"guardat":false,
+		"coordDec":[42.490736, 1.648892]
+	},{
+		"pais":"Andorra",
+		"regio":"Encamp",
+		"nom":"Refugi dels Estanys d'Ensagents",
+		"altitud":2420,
+		"guardat":false,
+		"coordDec":[42.517017, 1.642047]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana d'Estall Serrer",
+		"altitud":2076,
+		"guardat":false,
+		"coordDec":[42.484706, 1.6123]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Refugi d'Estanys Forcats",
+		"altitud":2630,
+		"guardat":false,
+		"coordDec":[42.59825, 1.450061]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Cabana de l'Eucasser",
+		"altitud":1980,
+		"guardat":false,
+		"coordDec":[42.620986, 1.569144]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Refugi de Fontverd",
+		"altitud":1830,
+		"guardat":false,
+		"coordDec":[42.492064, 1.594533]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana de la Farga",
+		"altitud":2008,
+		"guardat":false,
+		"coordDec":[42.489836, 1.6072]
+	},{
+		"pais":"Andorra",
+		"regio":"Sant Julià de Lòria",
+		"nom":"Refugi de Francolí",
+		"altitud":1825,
+		"guardat":false,
+		"coordDec":[42.489925, 1.4263]
+	},{
+		"pais":"Andorra",
+		"regio":"Encamp",
+		"nom":"Refugi de l'Illa",
+		"altitud":2517,
+		"guardat":false,
+		"coordDec":[42.494986, 1.656422]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Refugi de Juclar",
+		"altitud":2310,
+		"guardat":true,
+		"coordDec":[42.607269, 1.715678]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Refugi de la Portella",
+		"altitud":2240,
+		"guardat":false,
+		"coordDec":[42.572028, 1.720522]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Refugi de les Fonts",
+		"altitud":2220,
+		"guardat":false,
+		"coordDec":[42.590103, 1.478978]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana Maiana",
+		"altitud":2375,
+		"guardat":false,
+		"coordDec":[42.477606, 1.588647]
+	},{
+		"pais":"Andorra",
+		"regio":"Encamp",
+		"nom":"Refugi de Montmalús",
+		"altitud":2440,
+		"guardat":false,
+		"coordDec":[42.499181, 1.680683]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Cabana de Montmantell",
+		"altitud":2505,
+		"guardat":false,
+		"coordDec":[42.600861, 1.469644]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana de Perafita",
+		"altitud":2201,
+		"guardat":false,
+		"coordDec":[42.481114, 1.575694]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Refugi de Perafita",
+		"altitud":2200,
+		"guardat":false,
+		"coordDec":[42.479719, 1.57825]
+	},{
+		"pais":"Andorra",
+		"regio":"Encamp",
+		"nom":"Refugi del Pla de les Pedres",
+		"altitud":2150,
+		"guardat":false,
+		"coordDec":[42.553669, 1.678897]
+	},{
+		"pais":"Andorra",
+		"regio":"La Massana",
+		"nom":"Refugi del Pla de l'Estany",
+		"altitud":2030,
+		"guardat":false,
+		"coordDec":[42.594019, 1.460528]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Cabana del Pla de la Vaca Morta",
+		"altitud":1791,
+		"guardat":false,
+		"coordDec":[42.566514, 1.757844]
+	},{
+		"pais":"Andorra",
+		"regio":"Andorra la Vella",
+		"nom":"Refugi de Prat Primer",
+		"altitud":2215,
+		"guardat":false,
+		"coordDec":[42.478475, 1.550292]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Refugi de Rialb",
+		"altitud":2020,
+		"guardat":false,
+		"coordDec":[42.64035, 1.561233]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Refugi de Riba Escorjada",
+		"altitud":2040,
+		"guardat":false,
+		"coordDec":[42.565933, 1.640767]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Refugi del Riu dels Orris",
+		"altitud":2230,
+		"guardat":false,
+		"coordDec":[42.485028, 1.639756]
+	},{
+		"pais":"Andorra",
+		"regio":"Sant Julià de Lòria",
+		"nom":"Refugi de Roca de Pimes",
+		"altitud":2170,
+		"guardat":false,
+		"coordDec":[42.433678, 1.535761]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana del Serrat de la Barracota",
+		"altitud":2175,
+		"guardat":false,
+		"coordDec":[42.482278, 1.629383]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Cabana de la Serrera",
+		"altitud":2250,
+		"guardat":false,
+		"coordDec":[42.621144, 1.579775]
+	},{
+		"pais":"Andorra",
+		"regio":"Escaldes-Engordany",
+		"nom":"Cabana de Setut",
+		"altitud":2277,
+		"guardat":false,
+		"coordDec":[42.482558, 1.642253]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Cabana de Siscaró",
+		"altitud":2508,
+		"guardat":false,
+		"coordDec":[42.585714, 1.715831]
+	},{
+		"pais":"Andorra",
+		"regio":"Canillo",
+		"nom":"Refugi de Siscaró",
+		"altitud":2180,
+		"guardat":false,
+		"coordDec":[42.594872, 1.705958]
+	},{
+		"pais":"Andorra",
+		"regio":"Ordino",
+		"nom":"Refugi de la Vall del Riu",
+		"altitud":2180,
+		"guardat":false,
+		"coordDec":[42.595642, 1.613172]
+	}
+]
