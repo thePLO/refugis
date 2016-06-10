@@ -12,6 +12,7 @@
 		function reqListener(e) {
 		    refugis = JSON.parse(this.responseText);
 		    alert(refugis);
+		    mapProp.center= new google.maps.LatLng(refugis[0].coordDec[0],refugis[0].coordDec[1]);
 		}
 		function initialize() {
 		  var mapProp = {
