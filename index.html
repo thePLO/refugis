@@ -21,7 +21,7 @@
 				mapTypeId:google.maps.MapTypeId.TERRAIN
 			};
 			var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-			for(var i=0;i<refugis.length();i++){
+			for(var i=0;i<refugis.length;i++){
 				var _pos = new google.maps.LatLng(refugis[i].coordDec[0],refugis[i].coordDec[1]);
 				var marker = new google.maps.Marker({position:_pos});
 				marker.setMap(map);
